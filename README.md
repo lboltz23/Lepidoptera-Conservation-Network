@@ -109,7 +109,7 @@ pip install pandas numpy networkx scikit-learn
 
 ## Additional Data Files
 
-In addition to the scripts, this repository includes several CSV files that were useful for analyzing butterfly traits and conservation status. These files are provided to support transparency, reproducibility, and further exploration of the data.
+In addition to the scripts, this repository includes several CSV files that were useful for analyzing Lepidoptera traits and conservation status. These files are provided to support transparency, reproducibility, and further exploration of the data.
 
 These CSVs may include:
 
