@@ -72,20 +72,12 @@ Negative changes in mean ARI indicate trait families important for stable cluste
 
 ## Input Data
 
-This repository also includes CSV files used for exploratory and downstream analysis of butterfly traits and conservation status.
-
 Expected inputs include:
 
 * One row per species (or entity)
 * Binary trait columns (0/1)
 * At least one identifier column (string/object type)
 * Optional conservation status columns (e.g. `gb_threatened_binary`, `ie_threatened_binary`)
-
-Additional supporting CSVs may include:
-
-* Trait incidence matrices
-* Trait family mapping files
-* Summary or intermediate analysis outputs used for interpretation and validation
 
 For feature ablation, a trait-to-family mapping CSV is required.
 
