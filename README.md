@@ -120,6 +120,9 @@ These CSVs may include:
 
 The exact contents of these files may vary, but all are related to understanding how trait information and conservation status interact within the network framework.
 
+## Butterflies Dashboard
+This Power BI dashboard visualizes the results of a network-based ecological analysis of butterfly species in Great Britain and Ireland. Species are grouped into ecological communities based on shared life-history traits, and the dashboard highlights how extinction risk is distributed across these communities. It is intended to support exploration and interpretation of community structure, threat prevalence, and relative risk among different ecological strategies. 
+
 ---
 
 ## Notes
